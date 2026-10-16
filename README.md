@@ -1,15 +1,6 @@
 <div align="center">
 
-```text
-  ____  _             _               ___   ___  ____    ____  _   _ 
- |  _ \| |           | |             / _ \ / _ \|  _ \  |  _ \| | | |
- | |_) | | __ _ _   _| |__   ___ _ __ | | | | | | | |_) | | |_) | |_| |
- |  _ <| |/ _` | | | | '_ \ / _ \ '__|| | | | | | |  _-/  |  _ <|  _  |
- | |_) | | (_| | |_| | |_) |  __/ |   | |_| | |_| | |     | |_) | | | |
- |____/|_|\__,_|\__, |_.__/ \___|_|    \___/ \___/|_|     |____/|_| |_|
-                 __/ |                                                 
-                |___/                                                  
-```
+
 
 ### 🚀 Enterprise-Grade Python Object-Oriented Programming (OOP) Suite 🚀
 *A Production-Ready Architectural Collection of 21 Core OOP Design Patterns, Memory Lifecycles, and Complex Inheritance Topologies*
